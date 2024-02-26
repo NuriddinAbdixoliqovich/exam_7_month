@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "img": "/src/assets/images/cam1.png",
+        "model": "PowerShot SX620 HS",
+        "brand": "Canon",
+        "weekday": "630" ,
+        "holiday": "750",
+        "week": "4380",
+        "month": "12250",
+        "price": "10800"
+    },
+    {
+        "id": 2,
+        "img": "/src/assets/images/cam2.png",
+        "model": "PowerShot SX620 HS",
+        "brand": "Canon",
+        "weekday": "630" ,
+        "holiday": "750",
+        "week": "4380",
+        "month": "12250",
+        "price": "29400"
+    },
+    {
+        "id": 3,
+        "img": "/src/assets/images/cam3.png",
+        "model": "PowerShot SX620 HS",
+        "brand": "Canon",
+        "weekday": "630" ,
+        "holiday": "750",
+        "week": "4380",
+        "month": "12250",
+        "price": "17650"
+    },
+    {
+        "id": 4,
+        "img": "/src/assets/images/cam4.png",
+        "model": "PowerShot SX620 HS",
+        "brand": "Canon",
+        "weekday": "630" ,
+        "holiday": "750",
+        "week": "4380",
+        "month": "12250",
+        "price": "7280"
+    },
+    {
+        "id": 5,
+        "img": "/src/assets/images/cam5.png",
+        "model": "PowerShot SX620 HS",
+        "brand": "Canon",
+        "weekday": "630" ,
+        "holiday": "750",
+        "week": "4380",
+        "month": "12250",
+        "price": "14100"
+    },
+    {
+        "id": 6,
+        "img": "/src/assets/images/cam6.png",
+        "model": "PowerShot SX620 HS",
+        "brand": "Canon",
+        "weekday": "630" ,
+        "holiday": "750",
+        "week": "4380",
+        "month": "12250",
+        "price": "21000"
+    }
+]

@@ -1,0 +1,9 @@
+.home_bg{
+    background-image: url(/src/assets/images/header.png);
+    height: 550px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+
+
+}
